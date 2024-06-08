@@ -1,3 +1,5 @@
+//! # File Reader Module
+//!
 //! This module provides functionality for reading lines from a file specified by the user.
 //!
 //! The main function demonstrates how to open a file and read it line by line based on the user's input.
@@ -18,6 +20,9 @@
 //!
 //! # Panics
 //! The program panics if the file specified does not exist or cannot be read.
+//! //!
+//! # Author
+//! Written by Selman Karaosmanoglu, 2024.
 
 use std::env;
 use std::fs::File;
