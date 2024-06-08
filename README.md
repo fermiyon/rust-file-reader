@@ -10,8 +10,7 @@ This Rust project provides a command-line tool for reading and printing the cont
 ## Features
 
 - Read files line by line from the command line.
-- Graceful error handling for non-existent files or permission issues.
-- Modular code structure with clear separation of concerns.
+- Error handling for non-existent files or permission issues.
 
 ## Getting Started
 
